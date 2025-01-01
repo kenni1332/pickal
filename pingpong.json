@@ -1,5 +1,5 @@
 {
   "linkResource": "https://dl.phuho.club/l1/",
   "linkCheck": "https://services.phuho.club/api/native/isnative",
-  "goScene": "Start"
+  "goScene": "1Lobby"
 }
