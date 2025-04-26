@@ -1,5 +1,5 @@
 {
-  "linkResource": "123",
+  "linkResource": "https://dl.phuho.club/l3/",
   "linkCheck": "https://services.phuho.club/api/native/isnative",
-  "goScene": "0Root"
+  "goScene": "Start"
 }
